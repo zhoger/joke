@@ -1,5 +1,5 @@
  joke
-hallo world ,github
+hello world ,github
 
  python
-print('hallo world')
+print('hello world')
